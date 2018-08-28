@@ -6,14 +6,16 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 import Subheader from "../components/Subheader";
 import "./index.css";
+import "./mystyle.css";
 
 const TemplateWrapper = ({ children }) => (
   <div className="flex flex-col font-sans min-h-screen text-grey-darkest">
     <Helmet
       title="Gatsby Markdown Editor"
       meta={[
-        { name: "description", content: "Sample" },
-        { name: "keywords", content: "sample, something" }
+        { name: "author", content: "Alexander S. Garcia"},
+        { name: "description", content: "Gatsby Markdown Previewer" },
+        { name: "keywords", content: "markdown, gatsby, javascript, react" }
       ]}
     />
     <Header />
