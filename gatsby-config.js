@@ -3,5 +3,5 @@ module.exports = {
     title: 'Gatsby Markdown Viewer',
   },
   plugins: ['gatsby-plugin-react-helmet'],
-  pathPrefix: `/gatsby-markdown`
+  pathPrefix: `/gatsby-markdown-viewer`
 };
