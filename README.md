@@ -5,7 +5,7 @@
 # Gatsby Markdown Viewer
 
 ## What
-Gatsby Markdown Viewer is a project based on the freeCodeCamp curriculum to fulfill the Front End Libraries Certification.
+Gatsby Markdown Viewer is a project that I completed to teach myself React and Gatsby.js
 
 ## Who
 [Alexander Garcia](https://alexandergarcia.me) - me
@@ -17,7 +17,7 @@ I don't know it all, but I try my hardest to become better every day.  #AlwaysLe
 
 ## How
 <div align="center">
-  <p>A major thanks to [Taylor Bryant](https://github.com/taylorbryant) for creating the Gatsby Starter Tailwind, [Gatsby](https://www.gatsbyjs.org) for blazing-fast JAMStack awesomeness, and [TailwindCSS] for an amazing CSS Framework for rapid UI development.
+  <p>A major thanks to <a href="https://github.com/taylorbryant">Taylor Bryant</a> for creating the Gatsby Starter Tailwind, <a href="https://www.gatsbyjs.org">Gatsby.js</a> for blazing-fast JAMStack awesomeness, and TailwindCSS for an amazing CSS Framework for rapid UI development.
 </div>
 
 ![alt text](https://hmp.me/b7ug "Screenshot of Gatsby Markdown Viewer")
