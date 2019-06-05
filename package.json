@@ -29,7 +29,7 @@
     "gh-pages": "^2.0.1",
     "prettier": "^1.14.2",
     "purgecss": "^1.0.1",
-    "tailwindcss": "^0.7.4",
+    "tailwindcss": "^1.0.3",
     "merge": ">=1.2.1"
   }
 }
